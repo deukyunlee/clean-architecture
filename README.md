@@ -6,3 +6,4 @@
 
 - [01. 계층형 아키텍처의 문제점](docs/01-layered-architecture-problems.md)
 - [02. 의존성 역전하기](docs/02-dependency-inversion.md)
+- [03. 코드 구성하기](docs/03-code-organization.md)
